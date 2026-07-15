@@ -1,0 +1,7 @@
+*.csv
+*.xlsx
+!requirements.txt
+data/
+__pycache__/
+*.pyc
+.venv/
